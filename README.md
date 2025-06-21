@@ -6,7 +6,7 @@ In this repository are the four mini projects required to complete the Erdos Ins
 
 ### Project 1
 
-In this project, our task is to construct two potentially profitable portfolios, comprising whatever stocks we like and subject to whatever constraints we like, where one portfolio is higher risk and the other lower risk. Our determination of risk will be the (historical) sample standard deviation of the (log) return on investments, measured over a x year period, normalised to yearly. 
+In this project, we construct two potentially profitable portfolios, where one portfolio is higher risk and the other lower risk. Our determination of risk is the (historical) yearly standard deviation of the (log) daily return on investments, measured over a 2 year period. We choose
 
 ### Project 2
 
