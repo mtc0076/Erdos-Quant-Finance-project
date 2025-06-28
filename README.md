@@ -1,16 +1,13 @@
-# Erdos institute Quantitative Finance bootcamp summer 2025 final project
+# Erdos institute Quant Finance project
 
-## Executive summary
-
-In this repository are the four mini projects required to complete the Erdos Institute Quantitative Finance bootcamp of Summer 2025. A summary of each and the key learnings obtained are as follows.
+In this repository are the four mini-projects required to complete the Erdos Institute's Quantitative Finance bootcamp of summer 2025.
 
 ### Project 1
-
-In this project, we construct two potentially profitable portfolios, where one portfolio is higher risk and the other lower risk. Our determination of risk is the (historical) yearly standard deviation of the (log) daily return on investments, measured over a 2 year period. We choose
+I construct two "potentially profitable" portfolios, one "higher risk" and the other "lower risk". For the purposes of this project, I measure potential profitiability by the annualised expected value of stock returns. Risk will be quantified by volatility, i.e. the annualised standard deviation of daily log returns. Both measurements are (very crudely) based on historical stock price data. I minimise the volatility of a potential portfolio of stocks by minimising the quadratic form associated with the (sample) covariance matrix over all weight vectors with non-negative entries that sum to 1. The volatility of the optimal portfolio is less than the volatility of each individual stock, showing the value of diversification for minimising risk. 
 
 ### Project 2
 
-Our next task
+
 
 ### Project 3
 
