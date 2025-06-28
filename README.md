@@ -1,4 +1,4 @@
-# Erdos-Quant-Finance-project
+# Erdos institute Quantitative Finance bootcamp summer 2025 final project
 
 ## Executive summary
 
